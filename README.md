@@ -4,7 +4,7 @@ Gets joke from icanhazdadjoke.com, prints it
 # Installation
 
 ```
-go get -u github.com/hakluke/hakjoke
+go install github.com/hakluke/hakjoke@latest
 ```
 
 # Usage
